@@ -7,7 +7,7 @@
 ### Installation
 
 ```
-npm install
+npm ci
 ```
 
 ### Start Dev Server
