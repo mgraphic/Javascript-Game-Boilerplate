@@ -36,7 +36,7 @@ module.exports = {
         }),
     ],
     resolve: {
-        extensions: ['.js', '.es6', '.ts', '.tsx'],
+        extensions: ['.js', '.es6', '.ts', '.tsx', '.json'],
         alias: {
             '~': Path.resolve(__dirname, '../src'),
         },

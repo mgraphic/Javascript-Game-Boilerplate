@@ -1,24 +1,35 @@
 # Boilerplate Game
 
+-   NodeJS 16.15.1
+-   NPM 8.11.0
+
 ## Generated from Webpack Frontend Starterkit
 
 [![Dependabot badge](https://flat.badgen.net/dependabot/wbkd/webpack-starter?icon=dependabot)](https://dependabot.com/)
 
 ### Installation
 
-```
+```bash
 npm ci
 ```
 
 ### Start Dev Server
 
-```
+#### Open browser method:
+
+```bash
 npm start
+```
+
+#### Serve only method:
+
+```bash
+npm run serve
 ```
 
 ### Build Prod Version
 
-```
+```bash
 npm run build
 ```
 
